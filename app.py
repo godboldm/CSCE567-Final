@@ -155,6 +155,6 @@ elif page == "References":
         show_pdf('Midterm.pdf')
         
         st.markdown("## Final")
-        show_pdf('Midterm.pdf')
+        show_pdf('FinalV2.pdf')
 
 st.sidebar.write('Created by Matthew Godbold to satisfy the requirements of CSCE567 - Visualization Tools.')
