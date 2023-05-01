@@ -1,0 +1,441 @@
+Driver,Grand Prix,Net Positions,Finish,Points,Grid
+Max Verstappen,Bahrain Grand Prix,0,0,0,10
+Max Verstappen,Saudi Arabian Grand Prix,3,1,25,4
+Max Verstappen,Australian Grand Prix,0,0,0,14
+Max Verstappen,Emilia Romagna Grand Prix,2,1,34,3
+Max Verstappen,Miami Grand Prix,16,1,26,17
+Max Verstappen,Spanish Grand Prix,17,1,25,18
+Max Verstappen,Monaco Grand Prix,16,3,15,19
+Max Verstappen,Azerbaijan Grand Prix,19,1,25,20
+Max Verstappen,Canadian Grand Prix,10,1,25,11
+Max Verstappen,British Grand Prix,-2,7,6,5
+Max Verstappen,Austrian Grand Prix,11,2,27,13
+Max Verstappen,French Grand Prix,5,1,25,6
+Max Verstappen,Hungarian Grand Prix,15,1,25,16
+Max Verstappen,Belgian Grand Prix,0,1,26,1
+Max Verstappen,Dutch Grand Prix,14,1,26,15
+Max Verstappen,Italian Grand Prix,6,1,25,7
+Max Verstappen,Singapore Grand Prix,5,7,6,12
+Max Verstappen,Japanese Grand Prix,1,1,25,2
+Max Verstappen,United States Grand Prix,8,1,25,9
+Max Verstappen,Mexico City Grand Prix,7,1,25,8
+Max Verstappen,Sao Paulo Grand Prix,6,6,13,12
+Max Verstappen,Abu Dhabi Grand Prix,2,1,25,3
+Sergio Perez,Bahrain Grand Prix,0,0,0,15
+Sergio Perez,Saudi Arabian Grand Prix,2,4,12,6
+Sergio Perez,Australian Grand Prix,17,2,18,19
+Sergio Perez,Emilia Romagna Grand Prix,14,2,24,16
+Sergio Perez,Miami Grand Prix,14,4,12,18
+Sergio Perez,Spanish Grand Prix,7,2,19,9
+Sergio Perez,Monaco Grand Prix,6,1,25,7
+Sergio Perez,Azerbaijan Grand Prix,2,2,19,4
+Sergio Perez,Canadian Grand Prix,0,0,0,8
+Sergio Perez,British Grand Prix,18,2,18,20
+Sergio Perez,Austrian Grand Prix,0,0,4,11
+Sergio Perez,French Grand Prix,9,4,12,13
+Sergio Perez,Hungarian Grand Prix,5,5,10,10
+Sergio Perez,Belgian Grand Prix,-1,2,18,1
+Sergio Perez,Dutch Grand Prix,-3,5,10,2
+Sergio Perez,Italian Grand Prix,8,6,9,14
+Sergio Perez,Singapore Grand Prix,4,1,25,5
+Sergio Perez,Japanese Grand Prix,15,2,18,17
+Sergio Perez,United States Grand Prix,8,4,12,12
+Sergio Perez,Mexico City Grand Prix,0,3,15,3
+Sergio Perez,Sao Paulo Grand Prix,-1,7,10,6
+Sergio Perez,Abu Dhabi Grand Prix,10,3,15,13
+Charles Leclerc,Bahrain Grand Prix,13,1,26,14
+Charles Leclerc,Saudi Arabian Grand Prix,2,2,19,4
+Charles Leclerc,Australian Grand Prix,4,1,26,5
+Charles Leclerc,Emilia Romagna Grand Prix,10,6,15,16
+Charles Leclerc,Miami Grand Prix,8,2,18,10
+Charles Leclerc,Spanish Grand Prix,0,0,0,17
+Charles Leclerc,Monaco Grand Prix,5,4,12,9
+Charles Leclerc,Azerbaijan Grand Prix,0,0,0,19
+Charles Leclerc,Canadian Grand Prix,6,5,10,11
+Charles Leclerc,British Grand Prix,11,4,12,15
+Charles Leclerc,Austrian Grand Prix,7,1,32,8
+Charles Leclerc,French Grand Prix,0,0,0,20
+Charles Leclerc,Hungarian Grand Prix,-5,6,8,1
+Charles Leclerc,Belgian Grand Prix,-4,6,8,2
+Charles Leclerc,Dutch Grand Prix,15,3,15,18
+Charles Leclerc,Italian Grand Prix,5,2,18,7
+Charles Leclerc,Singapore Grand Prix,6,2,18,8
+Charles Leclerc,Japanese Grand Prix,9,3,15,12
+Charles Leclerc,United States Grand Prix,0,3,15,3
+Charles Leclerc,Mexico City Grand Prix,7,6,8,13
+Charles Leclerc,Sao Paulo Grand Prix,12,4,15,16
+Charles Leclerc,Abu Dhabi Grand Prix,7,2,18,9
+Carlos Sainz Jr.,Bahrain Grand Prix,5,2,18,7
+Carlos Sainz Jr.,Saudi Arabian Grand Prix,3,3,15,6
+Carlos Sainz Jr.,Australian Grand Prix,0,0,0,1
+Carlos Sainz Jr.,Emilia Romagna Grand Prix,0,0,5,4
+Carlos Sainz Jr.,Miami Grand Prix,11,3,15,14
+Carlos Sainz Jr.,Spanish Grand Prix,14,4,12,18
+Carlos Sainz Jr.,Monaco Grand Prix,13,2,18,15
+Carlos Sainz Jr.,Azerbaijan Grand Prix,0,0,0,5
+Carlos Sainz Jr.,Canadian Grand Prix,15,2,19,17
+Carlos Sainz Jr.,British Grand Prix,18,1,25,19
+Carlos Sainz Jr.,Austrian Grand Prix,0,0,6,11
+Carlos Sainz Jr.,French Grand Prix,15,5,11,20
+Carlos Sainz Jr.,Hungarian Grand Prix,-2,4,12,2
+Carlos Sainz Jr.,Belgian Grand Prix,7,3,15,10
+Carlos Sainz Jr.,Dutch Grand Prix,2,8,4,10
+Carlos Sainz Jr.,Italian Grand Prix,4,4,12,8
+Carlos Sainz Jr.,Singapore Grand Prix,2,3,15,5
+Carlos Sainz Jr.,Japanese Grand Prix,0,0,0,15
+Carlos Sainz Jr.,United States Grand Prix,0,0,0,13
+Carlos Sainz Jr.,Mexico City Grand Prix,6,5,10,11
+Carlos Sainz Jr.,Sao Paulo Grand Prix,3,3,22,6
+Carlos Sainz Jr.,Abu Dhabi Grand Prix,8,4,12,12
+Lewis Hamilton,Bahrain Grand Prix,1,3,15,4
+Lewis Hamilton,Saudi Arabian Grand Prix,7,10,1,17
+Lewis Hamilton,Australian Grand Prix,16,4,12,20
+Lewis Hamilton,Emilia Romagna Grand Prix,1,13,0,14
+Lewis Hamilton,Miami Grand Prix,-5,6,8,1
+Lewis Hamilton,Spanish Grand Prix,-2,5,10,3
+Lewis Hamilton,Monaco Grand Prix,8,8,4,16
+Lewis Hamilton,Azerbaijan Grand Prix,15,4,12,19
+Lewis Hamilton,Canadian Grand Prix,-1,3,15,2
+Lewis Hamilton,British Grand Prix,6,3,16,9
+Lewis Hamilton,Austrian Grand Prix,4,3,16,7
+Lewis Hamilton,French Grand Prix,16,2,18,18
+Lewis Hamilton,Hungarian Grand Prix,11,2,19,13
+Lewis Hamilton,Belgian Grand Prix,0,0,0,7
+Lewis Hamilton,Dutch Grand Prix,4,4,12,8
+Lewis Hamilton,Italian Grand Prix,4,5,10,9
+Lewis Hamilton,Singapore Grand Prix,-5,9,2,4
+Lewis Hamilton,Japanese Grand Prix,0,5,10,5
+Lewis Hamilton,United States Grand Prix,1,2,18,3
+Lewis Hamilton,Mexico City Grand Prix,10,2,18,12
+Lewis Hamilton,Sao Paulo Grand Prix,0,2,24,2
+Lewis Hamilton,Abu Dhabi Grand Prix,0,0,0,11
+George Russell,Bahrain Grand Prix,14,4,12,18
+George Russell,Saudi Arabian Grand Prix,15,5,10,20
+George Russell,Australian Grand Prix,13,3,15,16
+George Russell,Emilia Romagna Grand Prix,13,4,12,17
+George Russell,Miami Grand Prix,1,5,10,6
+George Russell,Spanish Grand Prix,11,3,15,14
+George Russell,Monaco Grand Prix,5,5,10,10
+George Russell,Azerbaijan Grand Prix,12,3,15,15
+George Russell,Canadian Grand Prix,15,4,12,19
+George Russell,British Grand Prix,0,0,0,1
+George Russell,Austrian Grand Prix,15,4,17,19
+George Russell,French Grand Prix,11,3,15,14
+George Russell,Hungarian Grand Prix,-1,3,15,2
+George Russell,Belgian Grand Prix,1,4,12,5
+George Russell,Dutch Grand Prix,4,2,18,6
+George Russell,Italian Grand Prix,10,3,15,13
+George Russell,Singapore Grand Prix,-10,14,0,4
+George Russell,Japanese Grand Prix,3,8,4,11
+George Russell,United States Grand Prix,13,5,11,18
+George Russell,Mexico City Grand Prix,12,4,13,16
+George Russell,Sao Paulo Grand Prix,14,1,34,15
+George Russell,Abu Dhabi Grand Prix,4,5,10,9
+Fernando Alonso,Bahrain Grand Prix,-6,9,2,3
+Fernando Alonso,Saudi Arabian Grand Prix,0,0,0,10
+Fernando Alonso,Australian Grand Prix,-5,17,0,12
+Fernando Alonso,Emilia Romagna Grand Prix,0,0,0,17
+Fernando Alonso,Miami Grand Prix,9,11,0,20
+Fernando Alonso,Spanish Grand Prix,-8,9,2,1
+Fernando Alonso,Monaco Grand Prix,1,7,6,8
+Fernando Alonso,Azerbaijan Grand Prix,0,7,6,7
+Fernando Alonso,Canadian Grand Prix,3,9,2,12
+Fernando Alonso,British Grand Prix,0,5,10,5
+Fernando Alonso,Austrian Grand Prix,1,10,1,11
+Fernando Alonso,French Grand Prix,-2,6,8,4
+Fernando Alonso,Hungarian Grand Prix,6,8,4,14
+Fernando Alonso,Belgian Grand Prix,5,5,10,10
+Fernando Alonso,Dutch Grand Prix,10,6,8,16
+Fernando Alonso,Italian Grand Prix,0,0,0,1
+Fernando Alonso,Singapore Grand Prix,0,0,0,15
+Fernando Alonso,Japanese Grand Prix,1,7,6,8
+Fernando Alonso,United States Grand Prix,12,7,6,19
+Fernando Alonso,Mexico City Grand Prix,0,0,0,13
+Fernando Alonso,Sao Paulo Grand Prix,4,5,10,9
+Fernando Alonso,Abu Dhabi Grand Prix,0,0,0,20
+Esteban Ocon,Bahrain Grand Prix,11,7,6,18
+Esteban Ocon,Saudi Arabian Grand Prix,-3,6,8,3
+Esteban Ocon,Australian Grand Prix,-5,7,6,2
+Esteban Ocon,Emilia Romagna Grand Prix,-8,14,0,6
+Esteban Ocon,Miami Grand Prix,-1,8,4,7
+Esteban Ocon,Spanish Grand Prix,10,7,6,17
+Esteban Ocon,Monaco Grand Prix,-6,12,0,6
+Esteban Ocon,Azerbaijan Grand Prix,7,10,1,17
+Esteban Ocon,Canadian Grand Prix,13,6,8,19
+Esteban Ocon,British Grand Prix,0,0,0,11
+Esteban Ocon,Austrian Grand Prix,3,5,13,8
+Esteban Ocon,French Grand Prix,6,8,4,14
+Esteban Ocon,Hungarian Grand Prix,0,9,2,9
+Esteban Ocon,Belgian Grand Prix,0,7,6,7
+Esteban Ocon,Dutch Grand Prix,-8,9,2,1
+Esteban Ocon,Italian Grand Prix,9,11,0,20
+Esteban Ocon,Singapore Grand Prix,0,0,0,15
+Esteban Ocon,Japanese Grand Prix,0,4,12,4
+Esteban Ocon,United States Grand Prix,2,11,0,13
+Esteban Ocon,Mexico City Grand Prix,-6,8,4,2
+Esteban Ocon,Sao Paulo Grand Prix,-3,8,4,5
+Esteban Ocon,Abu Dhabi Grand Prix,9,7,6,16
+Lando Norris,Bahrain Grand Prix,-12,15,0,3
+Lando Norris,Saudi Arabian Grand Prix,3,7,6,10
+Lando Norris,Australian Grand Prix,13,5,10,18
+Lando Norris,Emilia Romagna Grand Prix,9,3,19,12
+Lando Norris,Miami Grand Prix,0,0,0,4
+Lando Norris,Spanish Grand Prix,-7,8,4,1
+Lando Norris,Monaco Grand Prix,5,6,9,11
+Lando Norris,Azerbaijan Grand Prix,6,9,2,15
+Lando Norris,Canadian Grand Prix,-13,15,0,2
+Lando Norris,British Grand Prix,2,6,8,8
+Lando Norris,Austrian Grand Prix,13,7,6,20
+Lando Norris,French Grand Prix,3,7,6,10
+Lando Norris,Hungarian Grand Prix,9,7,6,16
+Lando Norris,Belgian Grand Prix,-7,12,0,5
+Lando Norris,Dutch Grand Prix,6,7,6,13
+Lando Norris,Italian Grand Prix,0,7,6,7
+Lando Norris,Singapore Grand Prix,-1,4,12,3
+Lando Norris,Japanese Grand Prix,2,10,1,12
+Lando Norris,United States Grand Prix,13,6,8,19
+Lando Norris,Mexico City Grand Prix,8,9,2,17
+Lando Norris,Sao Paulo Grand Prix,0,0,2,9
+Lando Norris,Abu Dhabi Grand Prix,12,6,9,18
+Daniel Ricciardo,Bahrain Grand Prix,0,14,0,14
+Daniel Ricciardo,Saudi Arabian Grand Prix,0,0,0,6
+Daniel Ricciardo,Australian Grand Prix,8,6,8,14
+Daniel Ricciardo,Emilia Romagna Grand Prix,-17,18,3,1
+Daniel Ricciardo,Miami Grand Prix,-5,13,0,8
+Daniel Ricciardo,Spanish Grand Prix,-5,12,0,7
+Daniel Ricciardo,Monaco Grand Prix,7,13,0,20
+Daniel Ricciardo,Azerbaijan Grand Prix,-3,8,4,5
+Daniel Ricciardo,Canadian Grand Prix,5,11,0,16
+Daniel Ricciardo,British Grand Prix,-3,13,0,10
+Daniel Ricciardo,Austrian Grand Prix,0,9,2,9
+Daniel Ricciardo,French Grand Prix,4,9,2,13
+Daniel Ricciardo,Hungarian Grand Prix,3,15,0,18
+Daniel Ricciardo,Belgian Grand Prix,-9,15,0,6
+Daniel Ricciardo,Dutch Grand Prix,-2,17,0,15
+Daniel Ricciardo,Italian Grand Prix,0,0,0,2
+Daniel Ricciardo,Singapore Grand Prix,-2,5,10,3
+Daniel Ricciardo,Japanese Grand Prix,1,11,0,12
+Daniel Ricciardo,United States Grand Prix,1,16,0,17
+Daniel Ricciardo,Mexico City Grand Prix,12,7,6,19
+Daniel Ricciardo,Sao Paulo Grand Prix,0,0,0,4
+Daniel Ricciardo,Abu Dhabi Grand Prix,2,9,2,11
+Valtteri Bottas,Bahrain Grand Prix,3,6,8,9
+Valtteri Bottas,Saudi Arabian Grand Prix,0,0,0,7
+Valtteri Bottas,Australian Grand Prix,6,8,4,14
+Valtteri Bottas,Emilia Romagna Grand Prix,7,5,12,12
+Valtteri Bottas,Miami Grand Prix,6,7,6,13
+Valtteri Bottas,Spanish Grand Prix,0,6,8,6
+Valtteri Bottas,Monaco Grand Prix,10,9,2,19
+Valtteri Bottas,Azerbaijan Grand Prix,7,11,0,18
+Valtteri Bottas,Canadian Grand Prix,10,7,6,17
+Valtteri Bottas,British Grand Prix,0,0,0,10
+Valtteri Bottas,Austrian Grand Prix,4,11,0,15
+Valtteri Bottas,French Grand Prix,-10,14,0,4
+Valtteri Bottas,Hungarian Grand Prix,0,0,0,20
+Valtteri Bottas,Belgian Grand Prix,0,0,0,5
+Valtteri Bottas,Dutch Grand Prix,0,0,0,1
+Valtteri Bottas,Italian Grand Prix,3,13,0,16
+Valtteri Bottas,Singapore Grand Prix,0,11,0,11
+Valtteri Bottas,Japanese Grand Prix,-12,15,0,3
+Valtteri Bottas,United States Grand Prix,0,0,0,8
+Valtteri Bottas,Mexico City Grand Prix,-8,10,1,2
+Valtteri Bottas,Sao Paulo Grand Prix,10,9,2,19
+Valtteri Bottas,Abu Dhabi Grand Prix,-8,15,0,7
+Zhou Guanyu,Bahrain Grand Prix,6,10,1,16
+Zhou Guanyu,Saudi Arabian Grand Prix,-5,11,0,6
+Zhou Guanyu,Australian Grand Prix,4,11,0,15
+Zhou Guanyu,Emilia Romagna Grand Prix,-5,15,0,10
+Zhou Guanyu,Miami Grand Prix,0,0,0,14
+Zhou Guanyu,Spanish Grand Prix,0,0,0,3
+Zhou Guanyu,Monaco Grand Prix,4,16,0,20
+Zhou Guanyu,Azerbaijan Grand Prix,0,0,0,11
+Zhou Guanyu,Canadian Grand Prix,-7,8,4,1
+Zhou Guanyu,British Grand Prix,0,0,0,4
+Zhou Guanyu,Austrian Grand Prix,4,14,0,18
+Zhou Guanyu,French Grand Prix,-11,16,0,5
+Zhou Guanyu,Hungarian Grand Prix,-1,13,0,12
+Zhou Guanyu,Belgian Grand Prix,-1,14,0,13
+Zhou Guanyu,Dutch Grand Prix,-14,16,0,2
+Zhou Guanyu,Italian Grand Prix,-1,10,1,9
+Zhou Guanyu,Singapore Grand Prix,0,0,0,8
+Zhou Guanyu,Japanese Grand Prix,1,16,0,17
+Zhou Guanyu,United States Grand Prix,-8,12,0,4
+Zhou Guanyu,Mexico City Grand Prix,-12,13,0,1
+Zhou Guanyu,Sao Paulo Grand Prix,5,12,0,17
+Zhou Guanyu,Abu Dhabi Grand Prix,7,12,0,19
+Sebastian Vettel,Bahrain Grand Prix,0,0,0,10
+Sebastian Vettel,Saudi Arabian Grand Prix,0,0,0,14
+Sebastian Vettel,Australian Grand Prix,0,0,0,20
+Sebastian Vettel,Emilia Romagna Grand Prix,3,8,4,11
+Sebastian Vettel,Miami Grand Prix,0,0,0,7
+Sebastian Vettel,Spanish Grand Prix,-8,11,0,3
+Sebastian Vettel,Monaco Grand Prix,8,10,1,18
+Sebastian Vettel,Azerbaijan Grand Prix,9,6,8,15
+Sebastian Vettel,Canadian Grand Prix,-10,12,0,2
+Sebastian Vettel,British Grand Prix,0,9,2,9
+Sebastian Vettel,Austrian Grand Prix,-4,17,0,13
+Sebastian Vettel,French Grand Prix,1,11,0,12
+Sebastian Vettel,Hungarian Grand Prix,-2,10,1,8
+Sebastian Vettel,Belgian Grand Prix,-2,8,4,6
+Sebastian Vettel,Dutch Grand Prix,2,14,0,16
+Sebastian Vettel,Italian Grand Prix,0,0,0,5
+Sebastian Vettel,Singapore Grand Prix,12,8,4,20
+Sebastian Vettel,Japanese Grand Prix,-2,6,8,4
+Sebastian Vettel,United States Grand Prix,2,8,4,10
+Sebastian Vettel,Mexico City Grand Prix,-6,14,0,8
+Sebastian Vettel,Sao Paulo Grand Prix,-6,11,0,5
+Sebastian Vettel,Abu Dhabi Grand Prix,-7,10,1,3
+Lance Stroll,Bahrain Grand Prix,2,12,0,14
+Lance Stroll,Saudi Arabian Grand Prix,4,13,0,17
+Lance Stroll,Australian Grand Prix,3,12,0,15
+Lance Stroll,Emilia Romagna Grand Prix,3,10,1,13
+Lance Stroll,Miami Grand Prix,-8,10,1,2
+Lance Stroll,Spanish Grand Prix,3,15,0,18
+Lance Stroll,Monaco Grand Prix,-3,14,0,11
+Lance Stroll,Azerbaijan Grand Prix,0,0,0,12
+Lance Stroll,Canadian Grand Prix,-4,10,1,6
+Lance Stroll,British Grand Prix,-2,11,0,9
+Lance Stroll,Austrian Grand Prix,-6,13,0,7
+Lance Stroll,French Grand Prix,6,10,1,16
+Lance Stroll,Hungarian Grand Prix,-10,11,0,1
+Lance Stroll,Belgian Grand Prix,8,11,0,19
+Lance Stroll,Dutch Grand Prix,6,10,1,16
+Lance Stroll,Italian Grand Prix,0,0,0,12
+Lance Stroll,Singapore Grand Prix,2,6,8,8
+Lance Stroll,Japanese Grand Prix,-8,12,0,4
+Lance Stroll,United States Grand Prix,0,0,0,1
+Lance Stroll,Mexico City Grand Prix,-6,15,0,9
+Lance Stroll,Sao Paulo Grand Prix,9,10,1,19
+Lance Stroll,Abu Dhabi Grand Prix,-1,8,4,7
+Kevin Magnussen,Bahrain Grand Prix,15,5,10,20
+Kevin Magnussen,Saudi Arabian Grand Prix,2,9,2,11
+Kevin Magnussen,Australian Grand Prix,3,14,0,17
+Kevin Magnussen,Emilia Romagna Grand Prix,-4,9,3,5
+Kevin Magnussen,Miami Grand Prix,0,0,0,15
+Kevin Magnussen,Spanish Grand Prix,-14,17,0,3
+Kevin Magnussen,Monaco Grand Prix,0,0,0,14
+Kevin Magnussen,Azerbaijan Grand Prix,0,0,0,10
+Kevin Magnussen,Canadian Grand Prix,1,17,0,18
+Kevin Magnussen,British Grand Prix,-8,10,1,2
+Kevin Magnussen,Austrian Grand Prix,5,8,6,13
+Kevin Magnussen,French Grand Prix,0,0,0,6
+Kevin Magnussen,Hungarian Grand Prix,4,16,0,20
+Kevin Magnussen,Belgian Grand Prix,-5,16,0,11
+Kevin Magnussen,Dutch Grand Prix,-1,15,0,14
+Kevin Magnussen,Italian Grand Prix,0,16,0,16
+Kevin Magnussen,Singapore Grand Prix,5,12,0,17
+Kevin Magnussen,Japanese Grand Prix,-12,14,0,2
+Kevin Magnussen,United States Grand Prix,10,9,2,19
+Kevin Magnussen,Mexico City Grand Prix,-11,17,0,6
+Kevin Magnussen,Sao Paulo Grand Prix,0,0,1,7
+Kevin Magnussen,Abu Dhabi Grand Prix,-14,17,0,3
+Mick Schumacher,Bahrain Grand Prix,4,11,0,15
+Mick Schumacher,Saudi Arabian Grand Prix,0,0,0,8
+Mick Schumacher,Australian Grand Prix,-12,13,0,1
+Mick Schumacher,Emilia Romagna Grand Prix,-8,17,0,9
+Mick Schumacher,Miami Grand Prix,3,15,0,18
+Mick Schumacher,Spanish Grand Prix,-1,14,0,13
+Mick Schumacher,Monaco Grand Prix,0,0,0,5
+Mick Schumacher,Azerbaijan Grand Prix,-4,14,0,10
+Mick Schumacher,Canadian Grand Prix,0,0,0,12
+Mick Schumacher,British Grand Prix,-4,8,4,4
+Mick Schumacher,Austrian Grand Prix,2,6,8,8
+Mick Schumacher,French Grand Prix,-2,15,0,13
+Mick Schumacher,Hungarian Grand Prix,6,14,0,20
+Mick Schumacher,Belgian Grand Prix,-5,17,0,12
+Mick Schumacher,Dutch Grand Prix,-3,13,0,10
+Mick Schumacher,Italian Grand Prix,3,12,0,15
+Mick Schumacher,Singapore Grand Prix,5,13,0,18
+Mick Schumacher,Japanese Grand Prix,-10,17,0,7
+Mick Schumacher,United States Grand Prix,-6,15,0,9
+Mick Schumacher,Mexico City Grand Prix,-15,16,0,1
+Mick Schumacher,Sao Paulo Grand Prix,-8,13,0,5
+Mick Schumacher,Abu Dhabi Grand Prix,0,16,0,16
+Pierre Gasly,Bahrain Grand Prix,0,0,0,3
+Pierre Gasly,Saudi Arabian Grand Prix,-4,8,4,4
+Pierre Gasly,Australian Grand Prix,8,9,2,17
+Pierre Gasly,Emilia Romagna Grand Prix,7,12,0,19
+Pierre Gasly,Miami Grand Prix,0,0,0,14
+Pierre Gasly,Spanish Grand Prix,-11,13,0,2
+Pierre Gasly,Monaco Grand Prix,0,11,0,11
+Pierre Gasly,Azerbaijan Grand Prix,1,5,10,6
+Pierre Gasly,Canadian Grand Prix,-12,14,0,2
+Pierre Gasly,British Grand Prix,0,0,0,11
+Pierre Gasly,Austrian Grand Prix,-6,15,0,9
+Pierre Gasly,French Grand Prix,4,12,0,16
+Pierre Gasly,Hungarian Grand Prix,7,12,0,19
+Pierre Gasly,Belgian Grand Prix,9,9,2,18
+Pierre Gasly,Dutch Grand Prix,-7,11,0,4
+Pierre Gasly,Italian Grand Prix,-1,8,4,7
+Pierre Gasly,Singapore Grand Prix,4,10,1,14
+Pierre Gasly,Japanese Grand Prix,-8,18,0,10
+Pierre Gasly,United States Grand Prix,-6,14,0,8
+Pierre Gasly,Mexico City Grand Prix,-5,11,0,6
+Pierre Gasly,Sao Paulo Grand Prix,1,14,0,15
+Pierre Gasly,Abu Dhabi Grand Prix,6,14,0,20
+Yuki Tsunoda,Bahrain Grand Prix,-7,8,4,1
+Yuki Tsunoda,Saudi Arabian Grand Prix,0,0,0,17
+Yuki Tsunoda,Australian Grand Prix,-12,15,0,3
+Yuki Tsunoda,Emilia Romagna Grand Prix,-2,7,6,5
+Yuki Tsunoda,Miami Grand Prix,0,12,0,12
+Yuki Tsunoda,Spanish Grand Prix,3,10,1,13
+Yuki Tsunoda,Monaco Grand Prix,-10,17,0,7
+Yuki Tsunoda,Azerbaijan Grand Prix,0,13,0,13
+Yuki Tsunoda,Canadian Grand Prix,0,0,0,17
+Yuki Tsunoda,British Grand Prix,-9,14,0,5
+Yuki Tsunoda,Austrian Grand Prix,3,16,0,19
+Yuki Tsunoda,French Grand Prix,0,0,0,10
+Yuki Tsunoda,Hungarian Grand Prix,-7,19,0,12
+Yuki Tsunoda,Belgian Grand Prix,-9,13,0,4
+Yuki Tsunoda,Dutch Grand Prix,0,0,0,9
+Yuki Tsunoda,Italian Grand Prix,-8,14,0,6
+Yuki Tsunoda,Singapore Grand Prix,0,0,0,2
+Yuki Tsunoda,Japanese Grand Prix,-5,13,0,8
+Yuki Tsunoda,United States Grand Prix,-7,10,1,3
+Yuki Tsunoda,Mexico City Grand Prix,0,0,0,16
+Yuki Tsunoda,Sao Paulo Grand Prix,-3,17,0,14
+Yuki Tsunoda,Abu Dhabi Grand Prix,7,11,0,18
+Nicholas Latifi,Bahrain Grand Prix,-15,16,0,1
+Nicholas Latifi,Saudi Arabian Grand Prix,0,0,0,11
+Nicholas Latifi,Australian Grand Prix,4,16,0,20
+Nicholas Latifi,Emilia Romagna Grand Prix,-1,16,0,15
+Nicholas Latifi,Miami Grand Prix,-10,14,0,4
+Nicholas Latifi,Spanish Grand Prix,-4,16,0,12
+Nicholas Latifi,Monaco Grand Prix,2,15,0,17
+Nicholas Latifi,Azerbaijan Grand Prix,-13,15,0,2
+Nicholas Latifi,Canadian Grand Prix,-5,16,0,11
+Nicholas Latifi,British Grand Prix,7,12,0,19
+Nicholas Latifi,Austrian Grand Prix,0,0,0,10
+Nicholas Latifi,French Grand Prix,0,0,0,5
+Nicholas Latifi,Hungarian Grand Prix,2,18,0,20
+Nicholas Latifi,Belgian Grand Prix,-3,18,0,15
+Nicholas Latifi,Dutch Grand Prix,-2,18,0,16
+Nicholas Latifi,Italian Grand Prix,-2,15,0,13
+Nicholas Latifi,Singapore Grand Prix,0,0,0,6
+Nicholas Latifi,Japanese Grand Prix,5,9,2,14
+Nicholas Latifi,United States Grand Prix,-8,17,0,9
+Nicholas Latifi,Mexico City Grand Prix,0,18,0,18
+Nicholas Latifi,Sao Paulo Grand Prix,-8,16,0,8
+Nicholas Latifi,Abu Dhabi Grand Prix,0,0,0,3
+Alexander Albon,Bahrain Grand Prix,-6,13,0,7
+Alexander Albon,Saudi Arabian Grand Prix,0,0,0,1
+Alexander Albon,Australian Grand Prix,3,10,1,13
+Alexander Albon,Emilia Romagna Grand Prix,7,11,0,18
+Alexander Albon,Miami Grand Prix,2,9,2,11
+Alexander Albon,Spanish Grand Prix,-10,18,0,8
+Alexander Albon,Monaco Grand Prix,0,0,0,14
+Alexander Albon,Azerbaijan Grand Prix,8,12,0,20
+Alexander Albon,Canadian Grand Prix,2,13,0,15
+Alexander Albon,British Grand Prix,0,0,0,7
+Alexander Albon,Austrian Grand Prix,-10,12,0,2
+Alexander Albon,French Grand Prix,-9,13,0,4
+Alexander Albon,Hungarian Grand Prix,-12,17,0,5
+Alexander Albon,Belgian Grand Prix,7,10,1,17
+Alexander Albon,Dutch Grand Prix,-11,12,0,1
+Alexander Albon,Italian Grand Prix,0,0,0,6
+Alexander Albon,Singapore Grand Prix,0,0,0,3
+Alexander Albon,Japanese Grand Prix,0,0,0,12
+Alexander Albon,United States Grand Prix,3,13,0,16
+Alexander Albon,Mexico City Grand Prix,7,12,0,19
+Alexander Albon,Sao Paulo Grand Prix,-6,15,0,9
+Alexander Albon,Abu Dhabi Grand Prix,-3,13,0,10

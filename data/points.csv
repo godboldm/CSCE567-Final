@@ -1,0 +1,221 @@
+Constructor,Grand Prix,Points
+RED BULL RACING,Bahrain Grand Prix,17
+RED BULL RACING,Saudi Arabian Grand Prix,27
+RED BULL RACING,Australian Grand Prix,8
+RED BULL RACING,Emilia Romagna Grand Prix,2
+RED BULL RACING,Miami Grand Prix,30
+RED BULL RACING,Spanish Grand Prix,45
+RED BULL RACING,Monaco Grand Prix,40
+RED BULL RACING,Azerbaijan Grand Prix,26
+RED BULL RACING,Canadian Grand Prix,15
+RED BULL RACING,British Grand Prix,30
+RED BULL RACING,Austrian Grand Prix,25
+RED BULL RACING,French Grand Prix,41
+RED BULL RACING,Hungarian Grand Prix,32
+RED BULL RACING,Belgian Grand Prix,19
+RED BULL RACING,Dutch Grand Prix,44
+RED BULL RACING,Italian Grand Prix,7
+RED BULL RACING,Singapore Grand Prix,32
+RED BULL RACING,Japanese Grand Prix,45
+RED BULL RACING,United States Grand Prix,4
+RED BULL RACING,Mexico City Grand Prix,19
+RED BULL RACING,Sao Paulo Grand Prix,48
+RED BULL RACING,Abu Dhabi Grand Prix,46
+FERRARI,Bahrain Grand Prix,26
+FERRARI,Saudi Arabian Grand Prix,18
+FERRARI,Australian Grand Prix,6
+FERRARI,Emilia Romagna Grand Prix,19
+FERRARI,Miami Grand Prix,23
+FERRARI,Spanish Grand Prix,41
+FERRARI,Monaco Grand Prix,11
+FERRARI,Azerbaijan Grand Prix,0
+FERRARI,Canadian Grand Prix,19
+FERRARI,British Grand Prix,12
+FERRARI,Austrian Grand Prix,3
+FERRARI,French Grand Prix,32
+FERRARI,Hungarian Grand Prix,30
+FERRARI,Belgian Grand Prix,18
+FERRARI,Dutch Grand Prix,36
+FERRARI,Italian Grand Prix,18
+FERRARI,Singapore Grand Prix,25
+FERRARI,Japanese Grand Prix,25
+FERRARI,United States Grand Prix,34
+FERRARI,Mexico City Grand Prix,5
+FERRARI,Sao Paulo Grand Prix,37
+FERRARI,Abu Dhabi Grand Prix,29
+MERCEDES,Bahrain Grand Prix,30
+MERCEDES,Saudi Arabian Grand Prix,1
+MERCEDES,Australian Grand Prix,5
+MERCEDES,Emilia Romagna Grand Prix,40
+MERCEDES,Miami Grand Prix,11
+MERCEDES,Spanish Grand Prix,50
+MERCEDES,Monaco Grand Prix,40
+MERCEDES,Azerbaijan Grand Prix,20
+MERCEDES,Canadian Grand Prix,18
+MERCEDES,British Grand Prix,11
+MERCEDES,Austrian Grand Prix,33
+MERCEDES,French Grand Prix,44
+MERCEDES,Hungarian Grand Prix,32
+MERCEDES,Belgian Grand Prix,21
+MERCEDES,Dutch Grand Prix,26
+MERCEDES,Italian Grand Prix,44
+MERCEDES,Singapore Grand Prix,4
+MERCEDES,Japanese Grand Prix,12
+MERCEDES,United States Grand Prix,10
+MERCEDES,Mexico City Grand Prix,46
+MERCEDES,Sao Paulo Grand Prix,22
+MERCEDES,Abu Dhabi Grand Prix,26
+ALPINE,Bahrain Grand Prix,18
+ALPINE,Saudi Arabian Grand Prix,41
+ALPINE,Australian Grand Prix,23
+ALPINE,Emilia Romagna Grand Prix,26
+ALPINE,Miami Grand Prix,8
+ALPINE,Spanish Grand Prix,36
+ALPINE,Monaco Grand Prix,18
+ALPINE,Azerbaijan Grand Prix,37
+ALPINE,Canadian Grand Prix,16
+ALPINE,British Grand Prix,10
+ALPINE,Austrian Grand Prix,23
+ALPINE,French Grand Prix,49
+ALPINE,Hungarian Grand Prix,19
+ALPINE,Belgian Grand Prix,21
+ALPINE,Dutch Grand Prix,27
+ALPINE,Italian Grand Prix,27
+ALPINE,Singapore Grand Prix,33
+ALPINE,Japanese Grand Prix,9
+ALPINE,United States Grand Prix,5
+ALPINE,Mexico City Grand Prix,3
+ALPINE,Sao Paulo Grand Prix,32
+ALPINE,Abu Dhabi Grand Prix,37
+MCLAREN,Bahrain Grand Prix,50
+MCLAREN,Saudi Arabian Grand Prix,42
+MCLAREN,Australian Grand Prix,47
+MCLAREN,Emilia Romagna Grand Prix,41
+MCLAREN,Miami Grand Prix,6
+MCLAREN,Spanish Grand Prix,26
+MCLAREN,Monaco Grand Prix,45
+MCLAREN,Azerbaijan Grand Prix,42
+MCLAREN,Canadian Grand Prix,14
+MCLAREN,British Grand Prix,48
+MCLAREN,Austrian Grand Prix,15
+MCLAREN,French Grand Prix,34
+MCLAREN,Hungarian Grand Prix,30
+MCLAREN,Belgian Grand Prix,13
+MCLAREN,Dutch Grand Prix,25
+MCLAREN,Italian Grand Prix,49
+MCLAREN,Singapore Grand Prix,21
+MCLAREN,Japanese Grand Prix,48
+MCLAREN,United States Grand Prix,6
+MCLAREN,Mexico City Grand Prix,43
+MCLAREN,Sao Paulo Grand Prix,21
+MCLAREN,Abu Dhabi Grand Prix,29
+ALFA ROMEO,Bahrain Grand Prix,20
+ALFA ROMEO,Saudi Arabian Grand Prix,46
+ALFA ROMEO,Australian Grand Prix,6
+ALFA ROMEO,Emilia Romagna Grand Prix,6
+ALFA ROMEO,Miami Grand Prix,34
+ALFA ROMEO,Spanish Grand Prix,13
+ALFA ROMEO,Monaco Grand Prix,10
+ALFA ROMEO,Azerbaijan Grand Prix,14
+ALFA ROMEO,Canadian Grand Prix,20
+ALFA ROMEO,British Grand Prix,13
+ALFA ROMEO,Austrian Grand Prix,48
+ALFA ROMEO,French Grand Prix,26
+ALFA ROMEO,Hungarian Grand Prix,6
+ALFA ROMEO,Belgian Grand Prix,34
+ALFA ROMEO,Dutch Grand Prix,46
+ALFA ROMEO,Italian Grand Prix,13
+ALFA ROMEO,Singapore Grand Prix,48
+ALFA ROMEO,Japanese Grand Prix,6
+ALFA ROMEO,United States Grand Prix,35
+ALFA ROMEO,Mexico City Grand Prix,37
+ALFA ROMEO,Sao Paulo Grand Prix,10
+ALFA ROMEO,Abu Dhabi Grand Prix,46
+ASTON MARTIN ARAMCO,Bahrain Grand Prix,45
+ASTON MARTIN ARAMCO,Saudi Arabian Grand Prix,40
+ASTON MARTIN ARAMCO,Australian Grand Prix,48
+ASTON MARTIN ARAMCO,Emilia Romagna Grand Prix,28
+ASTON MARTIN ARAMCO,Miami Grand Prix,2
+ASTON MARTIN ARAMCO,Spanish Grand Prix,15
+ASTON MARTIN ARAMCO,Monaco Grand Prix,33
+ASTON MARTIN ARAMCO,Azerbaijan Grand Prix,36
+ASTON MARTIN ARAMCO,Canadian Grand Prix,18
+ASTON MARTIN ARAMCO,British Grand Prix,2
+ASTON MARTIN ARAMCO,Austrian Grand Prix,37
+ASTON MARTIN ARAMCO,French Grand Prix,17
+ASTON MARTIN ARAMCO,Hungarian Grand Prix,22
+ASTON MARTIN ARAMCO,Belgian Grand Prix,7
+ASTON MARTIN ARAMCO,Dutch Grand Prix,18
+ASTON MARTIN ARAMCO,Italian Grand Prix,11
+ASTON MARTIN ARAMCO,Singapore Grand Prix,5
+ASTON MARTIN ARAMCO,Japanese Grand Prix,5
+ASTON MARTIN ARAMCO,United States Grand Prix,10
+ASTON MARTIN ARAMCO,Mexico City Grand Prix,32
+ASTON MARTIN ARAMCO,Sao Paulo Grand Prix,32
+ASTON MARTIN ARAMCO,Abu Dhabi Grand Prix,25
+HAAS,Bahrain Grand Prix,24
+HAAS,Saudi Arabian Grand Prix,26
+HAAS,Australian Grand Prix,4
+HAAS,Emilia Romagna Grand Prix,13
+HAAS,Miami Grand Prix,37
+HAAS,Spanish Grand Prix,4
+HAAS,Monaco Grand Prix,17
+HAAS,Azerbaijan Grand Prix,12
+HAAS,Canadian Grand Prix,44
+HAAS,British Grand Prix,44
+HAAS,Austrian Grand Prix,0
+HAAS,French Grand Prix,10
+HAAS,Hungarian Grand Prix,17
+HAAS,Belgian Grand Prix,40
+HAAS,Dutch Grand Prix,36
+HAAS,Italian Grand Prix,47
+HAAS,Singapore Grand Prix,0
+HAAS,Japanese Grand Prix,47
+HAAS,United States Grand Prix,38
+HAAS,Mexico City Grand Prix,4
+HAAS,Sao Paulo Grand Prix,40
+HAAS,Abu Dhabi Grand Prix,36
+ALPHATAURI,Bahrain Grand Prix,8
+ALPHATAURI,Saudi Arabian Grand Prix,6
+ALPHATAURI,Australian Grand Prix,4
+ALPHATAURI,Emilia Romagna Grand Prix,6
+ALPHATAURI,Miami Grand Prix,13
+ALPHATAURI,Spanish Grand Prix,10
+ALPHATAURI,Monaco Grand Prix,18
+ALPHATAURI,Azerbaijan Grand Prix,27
+ALPHATAURI,Canadian Grand Prix,47
+ALPHATAURI,British Grand Prix,9
+ALPHATAURI,Austrian Grand Prix,43
+ALPHATAURI,French Grand Prix,22
+ALPHATAURI,Hungarian Grand Prix,44
+ALPHATAURI,Belgian Grand Prix,48
+ALPHATAURI,Dutch Grand Prix,37
+ALPHATAURI,Italian Grand Prix,15
+ALPHATAURI,Singapore Grand Prix,42
+ALPHATAURI,Japanese Grand Prix,29
+ALPHATAURI,United States Grand Prix,5
+ALPHATAURI,Mexico City Grand Prix,41
+ALPHATAURI,Sao Paulo Grand Prix,35
+ALPHATAURI,Abu Dhabi Grand Prix,44
+WILLIAMS,Bahrain Grand Prix,40
+WILLIAMS,Saudi Arabian Grand Prix,6
+WILLIAMS,Australian Grand Prix,32
+WILLIAMS,Emilia Romagna Grand Prix,30
+WILLIAMS,Miami Grand Prix,41
+WILLIAMS,Spanish Grand Prix,25
+WILLIAMS,Monaco Grand Prix,30
+WILLIAMS,Azerbaijan Grand Prix,34
+WILLIAMS,Canadian Grand Prix,11
+WILLIAMS,British Grand Prix,39
+WILLIAMS,Austrian Grand Prix,25
+WILLIAMS,French Grand Prix,47
+WILLIAMS,Hungarian Grand Prix,39
+WILLIAMS,Belgian Grand Prix,28
+WILLIAMS,Dutch Grand Prix,18
+WILLIAMS,Italian Grand Prix,16
+WILLIAMS,Singapore Grand Prix,26
+WILLIAMS,Japanese Grand Prix,29
+WILLIAMS,United States Grand Prix,9
+WILLIAMS,Mexico City Grand Prix,32
+WILLIAMS,Sao Paulo Grand Prix,30
+WILLIAMS,Abu Dhabi Grand Prix,26
